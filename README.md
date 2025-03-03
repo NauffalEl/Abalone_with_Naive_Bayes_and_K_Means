@@ -78,15 +78,15 @@ Make sure you have the following installed:
 ## 📌 How to Run
 1. Clone the repository:
    ```bash
-   git clone git@github.com:fazza-abiyyu/Classification-Models-for-Abalone-using-Naive-Bayes-and-K-Means.git
+   git clone git@github.com:NauffalEl/Abalone_with_Naive_Bayes_and_K_Means.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd Classification-Models-for-Abalone-using-Naive-Bayes-and-K-Means
+   cd Abalone_with_Naive_Bayes_and_K_Means
    ```
 3. Open and run the Jupyter Notebook:
    ```bash
-   jupyter notebook Abalone_dengan_Naive_Bayes_dan_K_Means.ipynb
+   jupyter notebook Abalone_with_Naive_Bayes_and_K_Means.ipynb
    ```
 
 ---
